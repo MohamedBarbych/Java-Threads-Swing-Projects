@@ -45,7 +45,7 @@ Simulate elevator operations in a multistory building with this dynamic and real
    ```bash
    git clone https://github.com/MohamedBarbych/Java-Threads-Swing-Projects.git
    cd Java-Threads-Swing-Projects
-``
+
 2. Open the project in your preferred Java IDE.
 ```bash
 Compile and run:
